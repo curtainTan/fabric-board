@@ -2,6 +2,8 @@
 
 ## 使用fabric.js重写的画板
 
+项目演示: [预览地址](https://curtaintan.github.io/fabric-board/dist/#/)
+
 样图：
 
 <img src="./public/demo.png" />
