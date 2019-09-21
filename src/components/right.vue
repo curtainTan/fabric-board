@@ -157,6 +157,7 @@ export default {
         tcan.height = 150
         this.ctx2 = new fabric.Canvas( "tcan" )
         this.ctx2.selection = false
+        this.ctx2.skipTargetFind = true
     }
 }
 </script>
